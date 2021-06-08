@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 70px;
+
+  &-logo {
+    font-size: 30px;
+    color: rgb(22, 66, 66);
+    text-transform: uppercase;
+  }
+
+  &-cart {
+    font-size: 50px;
+    color: #0088cc;
+  }
+}

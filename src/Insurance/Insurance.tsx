@@ -1,10 +1,14 @@
-import Header from './Header';
+import Catalogue from "./Catalogue";
+import Header from "./Header";
+import "./insurance.scss";
 
 const Insurance = () => {
-    return (
-        <>
-            <Header />
-        </>
-    )
+  return (
+    <div className="container">
+      <Header />
+      <Catalogue />
+    </div>
+  );
 };
+
 export default Insurance;

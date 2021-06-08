@@ -1,4 +1,4 @@
-import Insurance from "./Insurance";
+import Insurance from "./insurance";
 
 function App() {
   return (

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/insurance/static/css/main.4670e19e.chunk.css",
+    "main.js": "/insurance/static/js/main.ca124008.chunk.js",
+    "main.js.map": "/insurance/static/js/main.ca124008.chunk.js.map",
+    "runtime-main.js": "/insurance/static/js/runtime-main.c2f41027.js",
+    "runtime-main.js.map": "/insurance/static/js/runtime-main.c2f41027.js.map",
+    "static/css/2.8c5372c1.chunk.css": "/insurance/static/css/2.8c5372c1.chunk.css",
+    "static/js/2.d33a9e7e.chunk.js": "/insurance/static/js/2.d33a9e7e.chunk.js",
+    "static/js/2.d33a9e7e.chunk.js.map": "/insurance/static/js/2.d33a9e7e.chunk.js.map",
+    "static/js/3.9ed60d51.chunk.js": "/insurance/static/js/3.9ed60d51.chunk.js",
+    "static/js/3.9ed60d51.chunk.js.map": "/insurance/static/js/3.9ed60d51.chunk.js.map",
+    "index.html": "/insurance/index.html",
+    "static/css/2.8c5372c1.chunk.css.map": "/insurance/static/css/2.8c5372c1.chunk.css.map",
+    "static/css/main.4670e19e.chunk.css.map": "/insurance/static/css/main.4670e19e.chunk.css.map",
+    "static/js/2.d33a9e7e.chunk.js.LICENSE.txt": "/insurance/static/js/2.d33a9e7e.chunk.js.LICENSE.txt",
+    "static/media/depositphotos_453703706-stock-illustration-electronic-insurance-hardware-digital-insurers.c9fc2da5.jpg": "/insurance/static/media/depositphotos_453703706-stock-illustration-electronic-insurance-hardware-digital-insurers.c9fc2da5.jpg",
+    "static/media/ui-tw-idv.43b733a3.png": "/insurance/static/media/ui-tw-idv.43b733a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2f41027.js",
+    "static/css/2.8c5372c1.chunk.css",
+    "static/js/2.d33a9e7e.chunk.js",
+    "static/css/main.4670e19e.chunk.css",
+    "static/js/main.ca124008.chunk.js"
+  ]
+}
